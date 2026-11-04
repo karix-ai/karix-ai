@@ -6,7 +6,7 @@ I turn that know-how into skills your agent loads on its own. You install them o
 
 ### ✨ launch-skills
 
-**[launch-skills](https://github.com/karix-ai/launch-skills)** turns Claude Code, Cursor or Codex into your launch team: a README that sells in 15 seconds, a demo GIF, the Show HN title and the right hour to post, Reddit posts, a 7-day plan to hit Trending. Ten skills, built on data from 188,000 Hacker News posts.
+**[launch-skills](https://github.com/karix-ai/launch-skills)** turns Claude Code, Cursor or Codex into your launch team: a README that sells in 15 seconds, a demo GIF, the Show HN title and the right hour to post, Reddit posts, a 7-day plan to hit Trending. Ten skills, built on data from 188,000 Show HN posts.
 
 ```bash
 npx skills add karix-ai/launch-skills
